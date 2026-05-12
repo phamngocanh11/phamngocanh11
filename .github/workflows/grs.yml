@@ -6,7 +6,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Thêm dòng này để cấp quyền ghi cho Action
     permissions:
       contents: write
     steps:
@@ -23,7 +22,7 @@ jobs:
       - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: languages
+          card: top-langs # Đã sửa từ 'languages' thành 'top-langs'
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&border_radius=10
           path: profile/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
