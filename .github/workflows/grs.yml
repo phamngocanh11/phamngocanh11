@@ -6,6 +6,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Thêm dòng này để cấp quyền ghi cho Action
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -13,7 +16,6 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # Sử dụng theme tokyonight cho hiện đại
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&border_radius=10
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
