@@ -5,11 +5,11 @@
   <img height="180em" src="./profile/languages.svg" />
 </div>
 
-### 🚀 Về tôi
-* 🎓 Sinh viên ngành **Kỹ thuật Phần mềm** tại **Đại học Hoa Sen**.
-* 💻 **Fullstack Developer Intern** với kinh nghiệm xây dựng các giải pháp cấp doanh nghiệp.
-* 🛠️ Hiện đang tập trung chuyên sâu vào **React 19**, **Node.js** và **Microservices**.
-* 🏆 Đồ án tốt nghiệp xuất sắc: **Hệ thống quản lý dự án** (Điểm số: **9.1/10**).
+### 🚀 About Me
+- [cite_start]🎓 **Software Engineering** student at **Hoa Sen University**. [cite: 4, 5]
+- [cite_start]💻 **Fullstack Developer Intern** with experience in building enterprise-grade solutions. [cite: 11, 7]
+- 🛠️ Currently focusing on **React 19**, **Node.js**, and **Microservices**.
+- [cite_start]🏆 Outstanding Graduation Thesis: **Project Management System** (Grade: **9.1/10**). [cite: 8]
 
 ### 🛠️ Tech Stack
 | Frontend | Backend | Database & Tools |
@@ -18,9 +18,9 @@
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 ### 📂 Featured Projects
-- **[Project Management System](https://github.com/phamngocanb11/project-management)**: Real-time collaboration, 90+ Lighthouse score.
-- **[Movie Streaming Platform](https://github.com/phamngocanh11/Movie)**: Responsive UI, JWT Authentication, Admin/User roles.
-- **[Knowledge-Sharing Platform](https://github.com/phamngocanh11/blog-platform)**: Built with Laravel 11 and RBAC.
+- [cite_start]**[Project Management System](https://github.com/phamngocanb11/project-management)**: Real-time collaboration tool with 90+ Lighthouse score. [cite: 26, 30]
+- [cite_start]**[Movie Streaming Platform](https://github.com/phamngocanh11/Movie)**: Responsive UI, JWT Authentication, and Admin/User authorization. [cite: 32, 36]
+- [cite_start]**[Knowledge-Sharing Platform](https://github.com/phamngocanh11/blog-platform)**: Multi-user platform built with Laravel 11 and RBAC. [cite: 38, 40]
 
 ---
 <div align="center">
