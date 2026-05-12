@@ -5,10 +5,11 @@
   <img height="180em" src="./profile/languages.svg" />
 </div>
 
-### 🚀 About Me
-- 🎓 **Software Engineering** student at **Hoa Sen University**.
-- 💻 **Fullstack Developer Intern** with experience in building enterprise-grade solutions.
-- 🛠️ Currently focusing on **React 19**, **Node.js**, và **Microservices**.
+### 🚀 Về tôi
+* 🎓 Sinh viên ngành **Kỹ thuật Phần mềm** tại **Đại học Hoa Sen**.
+* 💻 **Fullstack Developer Intern** với kinh nghiệm xây dựng các giải pháp cấp doanh nghiệp.
+* 🛠️ Hiện đang tập trung chuyên sâu vào **React 19**, **Node.js** và **Microservices**.
+* 🏆 Đồ án tốt nghiệp xuất sắc: **Hệ thống quản lý dự án** (Điểm số: **9.1/10**).
 
 ### 🛠️ Tech Stack
 | Frontend | Backend | Database & Tools |
@@ -24,6 +25,10 @@
 ---
 <div align="center">
   <p>Connect with me:</p>
-  <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ng%E1%BB%8Dc-anh-ph%E1%BA%A1m-b3903b408/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:phamngocanhtb03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ng%E1%BB%8Dc-anh-ph%E1%BA%A1m-b3903b408/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:phamngocanhtb03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
