@@ -9,7 +9,6 @@
 - 🎓 **Software Engineering** student at **Hoa Sen University**.
 - 💻 **Fullstack Developer Intern** with experience in building enterprise-grade solutions.
 - 🛠️ Currently focusing on **React 19**, **Node.js**, and **Microservices**.
-- 🏆 Outstanding Graduation Thesis: **Project Management System** (Grade: **9.1/10**).
 
 ### 🛠️ Tech Stack
 | Frontend | Backend | Database & Tools |
