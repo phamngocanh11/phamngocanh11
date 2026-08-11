@@ -1,8 +1,8 @@
 # Hi there, I'm Ngoc Anh 👋
 
 <div align="center">
-  <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/languages.svg" />
+<img height="180em" src="./profile/stats.svg?v=1" />
+<img height="180em" src="./profile/languages.svg?v=1" />
 </div>
 
 ### 🚀 About Me
