@@ -25,7 +25,7 @@ jobs:
           card: top-langs # Đã sửa từ 'languages' thành 'top-langs'
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&border_radius=10
           path: profile/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
         run: |
